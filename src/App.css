@@ -1,0 +1,65 @@
+.topNav{
+  display: flex;
+  justify-content:space-between;
+  background-color: rgb(254, 227, 21);
+  height: 70px;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-right: 50px;
+ 
+  
+}
+
+.leftNav{
+  font-family:'Apple Chancery', cursive;
+  font-size: 35px;
+}
+.symbol{
+  font-size: 50px;
+}
+
+.navNum{
+  padding-bottom: 20px;
+} 
+
+body{
+  margin:0px;
+  padding:0px;
+}
+.rightPart{
+  display: flex;
+  justify-content: center;
+  margin:0px;
+  padding:0px;
+}
+.noItems{
+  background-color: red;
+  height:20px;
+  width: 18px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  color:white;
+  font-weight: 700;
+}
+
+.totalPice{
+  display:flex;
+  justify-content: space-between;
+}
+.totalRupee{
+  color:rgb(3, 185, 185);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.empty{
+  font-size: 50px;
+  text-align: center;
+  
+
+}
+
+.padding{
+  padding-top: 80px;
+}
